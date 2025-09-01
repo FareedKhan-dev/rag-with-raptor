@@ -1,0 +1,24 @@
+# Core RAG & LangChain Framework
+langchain
+langchain-community
+langchain-huggingface
+
+# Hugging Face Models & Acceleration
+transformers
+sentence-transformers
+torch
+accelerate
+bitsandbytes
+
+# Vector Storage
+faiss-cpu
+
+# Clustering & Data Science
+umap-learn
+scikit-learn
+numpy
+pandas
+
+# Utilities & Plotting
+beautifulsoup4
+matplotlib
